@@ -1,0 +1,5 @@
+The assembly file "project1c" is a PIC Assembly program that will use a button and 8 LEDS as inputs and outputs.  
+The LED’s will be used to display a continuous pattern sequence of your choosing.  
+A sequence is defined as having gone through all of the LEDS.
+The button will be used to advance through the sequence, i.e. off, pattern…..  
+Subsequent button activations will alter the timing of the sequence. Off , Slow, Med, Fast,….back to Off.   
